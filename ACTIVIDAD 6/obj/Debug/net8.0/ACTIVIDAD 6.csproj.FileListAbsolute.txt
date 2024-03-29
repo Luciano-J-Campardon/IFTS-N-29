@@ -1,0 +1,14 @@
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 1/ACTIVIDAD 6/bin/Debug/net8.0/ACTIVIDAD 6
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 1/ACTIVIDAD 6/bin/Debug/net8.0/ACTIVIDAD 6.deps.json
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 1/ACTIVIDAD 6/bin/Debug/net8.0/ACTIVIDAD 6.runtimeconfig.json
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 1/ACTIVIDAD 6/bin/Debug/net8.0/ACTIVIDAD 6.dll
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 1/ACTIVIDAD 6/bin/Debug/net8.0/ACTIVIDAD 6.pdb
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 1/ACTIVIDAD 6/obj/Debug/net8.0/ACTIVIDAD 6.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 1/ACTIVIDAD 6/obj/Debug/net8.0/ACTIVIDAD 6.AssemblyInfoInputs.cache
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 1/ACTIVIDAD 6/obj/Debug/net8.0/ACTIVIDAD 6.AssemblyInfo.cs
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 1/ACTIVIDAD 6/obj/Debug/net8.0/ACTIVIDAD 6.csproj.CoreCompileInputs.cache
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 1/ACTIVIDAD 6/obj/Debug/net8.0/ACTIVIDAD 6.dll
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 1/ACTIVIDAD 6/obj/Debug/net8.0/refint/ACTIVIDAD 6.dll
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 1/ACTIVIDAD 6/obj/Debug/net8.0/ACTIVIDAD 6.pdb
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 1/ACTIVIDAD 6/obj/Debug/net8.0/ACTIVIDAD 6.genruntimeconfig.cache
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 1/ACTIVIDAD 6/obj/Debug/net8.0/ref/ACTIVIDAD 6.dll
