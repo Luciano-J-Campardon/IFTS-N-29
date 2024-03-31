@@ -1,0 +1,15 @@
+C:\Users\lucia\OneDrive\Documents\repos\DESARROLLO DE SISTEMAS ORIENTADO A OBJETOS\SEMANA 2\PrimerEjercicioWinForms\bin\Debug\netcoreapp3.1\PrimerEjercicioWinForms.exe
+C:\Users\lucia\OneDrive\Documents\repos\DESARROLLO DE SISTEMAS ORIENTADO A OBJETOS\SEMANA 2\PrimerEjercicioWinForms\bin\Debug\netcoreapp3.1\PrimerEjercicioWinForms.deps.json
+C:\Users\lucia\OneDrive\Documents\repos\DESARROLLO DE SISTEMAS ORIENTADO A OBJETOS\SEMANA 2\PrimerEjercicioWinForms\bin\Debug\netcoreapp3.1\PrimerEjercicioWinForms.runtimeconfig.json
+C:\Users\lucia\OneDrive\Documents\repos\DESARROLLO DE SISTEMAS ORIENTADO A OBJETOS\SEMANA 2\PrimerEjercicioWinForms\bin\Debug\netcoreapp3.1\PrimerEjercicioWinForms.runtimeconfig.dev.json
+C:\Users\lucia\OneDrive\Documents\repos\DESARROLLO DE SISTEMAS ORIENTADO A OBJETOS\SEMANA 2\PrimerEjercicioWinForms\bin\Debug\netcoreapp3.1\PrimerEjercicioWinForms.dll
+C:\Users\lucia\OneDrive\Documents\repos\DESARROLLO DE SISTEMAS ORIENTADO A OBJETOS\SEMANA 2\PrimerEjercicioWinForms\bin\Debug\netcoreapp3.1\PrimerEjercicioWinForms.pdb
+C:\Users\lucia\OneDrive\Documents\repos\DESARROLLO DE SISTEMAS ORIENTADO A OBJETOS\SEMANA 2\PrimerEjercicioWinForms\obj\Debug\netcoreapp3.1\PrimerEjercicioWinForms.fmrPrincipal.resources
+C:\Users\lucia\OneDrive\Documents\repos\DESARROLLO DE SISTEMAS ORIENTADO A OBJETOS\SEMANA 2\PrimerEjercicioWinForms\obj\Debug\netcoreapp3.1\PrimerEjercicioWinForms.csproj.GenerateResource.cache
+C:\Users\lucia\OneDrive\Documents\repos\DESARROLLO DE SISTEMAS ORIENTADO A OBJETOS\SEMANA 2\PrimerEjercicioWinForms\obj\Debug\netcoreapp3.1\PrimerEjercicioWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\OneDrive\Documents\repos\DESARROLLO DE SISTEMAS ORIENTADO A OBJETOS\SEMANA 2\PrimerEjercicioWinForms\obj\Debug\netcoreapp3.1\PrimerEjercicioWinForms.AssemblyInfoInputs.cache
+C:\Users\lucia\OneDrive\Documents\repos\DESARROLLO DE SISTEMAS ORIENTADO A OBJETOS\SEMANA 2\PrimerEjercicioWinForms\obj\Debug\netcoreapp3.1\PrimerEjercicioWinForms.AssemblyInfo.cs
+C:\Users\lucia\OneDrive\Documents\repos\DESARROLLO DE SISTEMAS ORIENTADO A OBJETOS\SEMANA 2\PrimerEjercicioWinForms\obj\Debug\netcoreapp3.1\PrimerEjercicioWinForms.csproj.CoreCompileInputs.cache
+C:\Users\lucia\OneDrive\Documents\repos\DESARROLLO DE SISTEMAS ORIENTADO A OBJETOS\SEMANA 2\PrimerEjercicioWinForms\obj\Debug\netcoreapp3.1\PrimerEjercicioWinForms.dll
+C:\Users\lucia\OneDrive\Documents\repos\DESARROLLO DE SISTEMAS ORIENTADO A OBJETOS\SEMANA 2\PrimerEjercicioWinForms\obj\Debug\netcoreapp3.1\PrimerEjercicioWinForms.pdb
+C:\Users\lucia\OneDrive\Documents\repos\DESARROLLO DE SISTEMAS ORIENTADO A OBJETOS\SEMANA 2\PrimerEjercicioWinForms\obj\Debug\netcoreapp3.1\PrimerEjercicioWinForms.genruntimeconfig.cache
