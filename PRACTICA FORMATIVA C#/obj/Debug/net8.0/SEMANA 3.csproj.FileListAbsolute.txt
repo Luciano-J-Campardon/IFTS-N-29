@@ -1,0 +1,14 @@
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 3/PRACTICA FORMATIVA C# - S3 DSOO/bin/Debug/net8.0/SEMANA 3
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 3/PRACTICA FORMATIVA C# - S3 DSOO/bin/Debug/net8.0/SEMANA 3.deps.json
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 3/PRACTICA FORMATIVA C# - S3 DSOO/bin/Debug/net8.0/SEMANA 3.runtimeconfig.json
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 3/PRACTICA FORMATIVA C# - S3 DSOO/bin/Debug/net8.0/SEMANA 3.dll
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 3/PRACTICA FORMATIVA C# - S3 DSOO/bin/Debug/net8.0/SEMANA 3.pdb
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 3/PRACTICA FORMATIVA C# - S3 DSOO/obj/Debug/net8.0/SEMANA 3.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 3/PRACTICA FORMATIVA C# - S3 DSOO/obj/Debug/net8.0/SEMANA 3.AssemblyInfoInputs.cache
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 3/PRACTICA FORMATIVA C# - S3 DSOO/obj/Debug/net8.0/SEMANA 3.AssemblyInfo.cs
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 3/PRACTICA FORMATIVA C# - S3 DSOO/obj/Debug/net8.0/SEMANA 3.csproj.CoreCompileInputs.cache
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 3/PRACTICA FORMATIVA C# - S3 DSOO/obj/Debug/net8.0/SEMANA 3.dll
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 3/PRACTICA FORMATIVA C# - S3 DSOO/obj/Debug/net8.0/refint/SEMANA 3.dll
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 3/PRACTICA FORMATIVA C# - S3 DSOO/obj/Debug/net8.0/SEMANA 3.pdb
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 3/PRACTICA FORMATIVA C# - S3 DSOO/obj/Debug/net8.0/SEMANA 3.genruntimeconfig.cache
+/home/lucianocampardon/Tecnicatura en Desarrollo de Software/Segundo Cuatrimestre/Desarrollo de Sistemas Orientado a Objetos/SEMANA 3/PRACTICA FORMATIVA C# - S3 DSOO/obj/Debug/net8.0/ref/SEMANA 3.dll
